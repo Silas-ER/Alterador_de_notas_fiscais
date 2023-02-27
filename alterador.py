@@ -6,7 +6,7 @@ conn = pyodbc.connect('Driver={SQL Server};'
                         'Server=SERVIDOR;'                      
                         'Database=DATABASE;'
                         'UID=USERNAME;'
-			                  'PWD=PASSWORD;'                     
+			'PWD=PASSWORD;'                     
                         'Trusted_Connection=yes;')
 cursor = conn.cursor()
 
