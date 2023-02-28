@@ -16,5 +16,5 @@
   <br>
   
  
-  O programa foi criado utilizando a linguagem python, com o acesso ao servidor e banco utilizando a biblioteca `pyodbc`, e a manipulação dos dados do mesmo utilizando a biblioteca `pandas`.
+  O programa foi criado utilizando a linguagem python, com o acesso ao servidor e banco utilizando a biblioteca `pyodbc`, e a manipulação dos dados do mesmo utilizando a biblioteca `pandas`, já o executável foi criado via `pyinstaller`.
 
